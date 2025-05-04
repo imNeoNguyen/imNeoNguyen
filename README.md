@@ -31,13 +31,13 @@ In this fast-evolving digital era, AI has become a powerful tool that helps me l
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
    </picture> 
   </a> 
-  <a href="https://www.gitlab.com/imNeoNguyen" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.gitlab.com/imNeoNguyen" target="_blank" rel="noreferrer"> 
    <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /> 
    </picture> 
-  </a> 
+  </a>  -->
   <a href="https://www.linkedin.com/in/im-neo-nguyen" target="_blank" rel="noreferrer"> 
    <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
